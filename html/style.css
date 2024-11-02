@@ -1,0 +1,57 @@
+body {
+  background-image: url(../images/index.jpg);
+  background: #000;
+  color:#517aca;
+  font-family: sans-serif;
+  font-weight; bold;
+}
+
+h1, h2, h3 {
+  font-family: "Berkshire Swash", sans-serif;
+  color:#caa151;
+  text-shadow: 3px 3px 3px #510321;
+  font-style:oblique;
+  font-size: 30px;
+}
+
+p {
+  color:aqua;
+}
+
+img {
+  height: 250px;
+}
+
+figcaption {
+  width; 350px
+}
+
+li, a {
+ color:burlywood;
+}
+fieldset {
+  width: 250px;
+}
+
+legend, fieldset {
+  color:rgb(8, 8, 8);
+  background-color: burlywood;
+  border: double #121212;
+}
+
+.rate {
+  color:rgb(134, 182, 224);
+}
+
+span {
+  float: right;
+}
+/*
+div {
+  border: double cornflowerblue;
+}
+*/
+
+.wow {
+  width: 100px;
+}
